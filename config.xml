@@ -35,7 +35,7 @@
 	<!--third part plugins-->
 	
 	<!--Colocar icono app-->
-	<icon src="res/android/mdpi.pnj"/>
+	<icon src="res/android/mdpi.png"/>
 	
 	</widget>
   
